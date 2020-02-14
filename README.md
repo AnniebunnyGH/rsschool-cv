@@ -1,1 +1,1 @@
-# https://anniebunnygh.github.io/rsschool-cv/cv docs: README update
+# <https://anniebunnygh.github.io/rsschool-cv/cv>
