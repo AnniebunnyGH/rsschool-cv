@@ -1,0 +1,68 @@
+body {
+    font-family: Calibri , Helvetica, sans-serif;
+    font-size: 14px;
+    padding: 0;
+    text-align: center;
+    margin: auto;
+    width: 1024px;
+    color: #055675;
+
+}
+
+h1 {
+    border-bottom: 1px solid #055675;
+    font-size: 32px;
+    text-align: left;
+}
+
+div {
+    padding: 2.5%;
+    background-color: #ffffff;
+    background-clip: content-box;
+}
+
+h2 {
+    font-size: 30px;
+    margin: 1.5% 0%;
+}
+
+h3 {
+    font-size: 20px;
+    margin-top: -2%;
+}
+
+.cv {
+    text-align: left;
+}
+
+.avatar {
+    width: 30%;
+    float: left;
+    
+}
+
+.textblock {
+    float: right;
+    width: 60%;
+}
+
+.contacts {
+    margin: -7px 0px;
+    
+}
+
+.goal {
+    text-align: justify;
+}
+
+.skilllist {
+    margin-left: -4.5%;
+}
+
+a:link {
+    color: #14a0d8;
+}
+
+a:visited {
+    color: #055675;
+}
